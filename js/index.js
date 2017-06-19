@@ -13,7 +13,8 @@ const render = (root) => {
 const state = {
   pokemon: null,
   name: null,
-  index: 0
+  index: 0,
+  pokemonspecies:null
 };
 
   $( _ => {
